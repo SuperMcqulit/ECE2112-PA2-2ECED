@@ -31,3 +31,6 @@ ndarray as X_normalized.npy
 which are the squares of the first 100 positive integers.
 From this ndarray, determine all the elements that are divisible by 3. Save the result as div_by_3.npy
 
+![image](https://github.com/user-attachments/assets/22324ac7-d3c6-4b87-983f-6336acc606bd)
+![image](https://github.com/user-attachments/assets/c5378bd2-1f22-44d4-b745-88a72ae070ac)
+

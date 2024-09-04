@@ -19,3 +19,15 @@ ndarray as X_normalized.npy
 
 
 ![image](https://github.com/user-attachments/assets/63886a11-459e-4d31-a106-08b6802615b8)
+
+2. DIVISIBLE BY 3 PROBLEM: Create the following 10 x 10 ndarray.
+𝐴 =
+[
+1 4 ⋯ 81 100
+⋮ ⋮ ⋱ ⋮ ⋮
+⋮ ⋮ ⋱ ⋮ ⋮
+⋮ ⋮ ⋱ ⋮ ⋮
+8281 8464 ⋯ 9801 10000]
+which are the squares of the first 100 positive integers.
+From this ndarray, determine all the elements that are divisible by 3. Save the result as div_by_3.npy
+
